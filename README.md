@@ -1,2 +1,0 @@
-# arrayrange
-Created with CodeSandbox
